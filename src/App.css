@@ -1,0 +1,17 @@
+.App{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   width:100%;
+   gap:20px;
+   
+}
+.card {
+  width:200px;
+  height:300px;
+  background-color:rgba(167,76,176,0.3);
+   padding: 20px;
+   border-radius: 10px 20px;
+   margin-top: 20px;
+}
